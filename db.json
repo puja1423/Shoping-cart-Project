@@ -1,0 +1,88 @@
+{
+  "seller": [
+    {
+      "name": "Pooja Dhumal ",
+      "email": "puja@user.com",
+      "password": "abc@123",
+      "address": "pimpri ",
+      "id": 1
+    },
+    {
+      "name": "Pramod Dhumal",
+      "email": "pramod@user.com",
+      "password": "abc@123",
+      "address": "chinchwad",
+      "id": 2
+    },
+    {
+      "name": "sonali naikwadi",
+      "password": "abc@123",
+      "email": "sonali@user.com",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "name": "i phone 14 pro max ",
+      "price": "1,49,000",
+      "category": "mobile",
+      "color": "purple",
+      "description": "this is a apple product",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703841896",
+      "id": 1
+    },
+    {
+      "name": "apple watch",
+      "price": "80000",
+      "category": "smart watch",
+      "color": "black",
+      "description": "watch",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1668270734/Croma%20Assets/Communication/Wearable%20Devices/Images/262055_0_st7zge.png/mxw_2304,f_auto",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 3
+    },
+    {
+      "name": "HeadPhone",
+      "price": "2000",
+      "category": "earphone",
+      "color": "black",
+      "description": "earphone",
+      "image": "https://m.media-amazon.com/images/I/315vj6oj-FL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 5
+    },
+    {
+      "name": "computer mouse",
+      "price": "1000",
+      "category": "computer acceseries",
+      "color": "black",
+      "description": "mouse hp",
+      "image": "https://m.media-amazon.com/images/I/61CqLgubwoL._SX679_.jpg",
+      "id": 6
+    },
+    {
+      "name": "DSLR cammera",
+      "price": "56000",
+      "category": "cammera",
+      "color": "black",
+      "description": "cannon cammera",
+      "image": "https://m.media-amazon.com/images/I/61zne3JPlQS._SX679_.jpg",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "yash",
+      "email": "yash@user.com",
+      "password": "abc@123",
+      "id": 1
+    }
+  ]
+}
