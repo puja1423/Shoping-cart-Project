@@ -84,5 +84,19 @@
       "password": "abc@123",
       "id": 1
     }
+  ],
+  "cart": [
+    {
+      "name": "i phone 14 pro max ",
+      "price": "1,49,000",
+      "category": "mobile",
+      "color": "purple",
+      "description": "this is a apple product",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703841896",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 3
+    }
   ]
 }

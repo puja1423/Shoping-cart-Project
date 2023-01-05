@@ -7,8 +7,10 @@ import { login, signUp } from '../data-type';
   providedIn: 'root'
 })
 export class UserService {
-invalidUserAuth= new EventEmitter<boolean>(false)
+  invalidUserAuth= new EventEmitter<boolean>(false)
+
   constructor(private http: HttpClient, private router:Router) { }
+  
   userSignUp(user:signUp){
    this.http.post('http://localhost:3000/users',user,{observe:'response'})
    .subscribe((result)=>{

@@ -17,6 +17,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { ProductDetailsComponent } from './component/product-details/product-details.component';
 import { SearchComponent } from './component/search/search.component';
 import { UserAuthComponent } from './component/user-auth/user-auth.component';
+import { CartPageComponent } from './cart-page/cart-page.component';
 
 
 @NgModule({
@@ -31,7 +32,8 @@ import { UserAuthComponent } from './component/user-auth/user-auth.component';
     SellerUpdateProductComponent,
     ProductDetailsComponent,
     SearchComponent,
-    UserAuthComponent
+    UserAuthComponent,
+    CartPageComponent
   ],
   imports: [
     CommonModule,
@@ -40,7 +42,7 @@ import { UserAuthComponent } from './component/user-auth/user-auth.component';
     FormsModule,
     FontAwesomeModule,
     HttpClientModule,
-    NgbModule
+    NgbModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
